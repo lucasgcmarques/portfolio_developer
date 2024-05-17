@@ -1,0 +1,21 @@
+@font-face {
+  font-family: StretchProBasic;
+  src: url(../assets/fonts/stretch-pro/stretch-pro.basic.otf) format('opentype');
+}
+@font-face {
+  font-family: StretchProRegular;
+  src: url(../assets/fonts/stretch-pro/stretch-pro.regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: JetBrainsMono;
+  src: url(../assets/fonts/jetbrains-mono/JetBrainsMono-Regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: JetBrainsMonoExtraLight;
+  src: url(../assets/fonts/jetbrains-mono/JetBrainsMono-ExtraLight.woff2) format('woff2');
+}
+@font-face {
+  font-family: JetBrainsMonoBold;
+  src: url(../assets/fonts/jetbrains-mono/JetBrainsMono-Bold.woff2) format('woff2');
+}

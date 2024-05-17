@@ -1,0 +1,16 @@
+<svg width="75" height="60" viewBox="0 0 75 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="logo">
+<path id="square12" d="M60 60H75V45H60V60Z" fill="#FFAF34"/>
+<rect id="square11" width="15" height="15" transform="matrix(1 0 0 -1 60 45)" fill="#FFAF34"/>
+<rect id="square10" width="15" height="15" transform="matrix(1 0 0 -1 60 15)" fill="#FFAF34"/>
+<path id="square09" d="M45 60H60V45H45V60Z" fill="#FFAF34"/>
+<rect id="square08" width="15" height="15" transform="matrix(1 0 0 -1 45 15)" fill="#FFAF34"/>
+<rect id="square07" width="15" height="15" transform="matrix(1 0 0 -1 30 45)" fill="#FFAF34"/>
+<rect id="square06" width="15" height="15" transform="matrix(1 0 0 -1 30 30)" fill="#FFAF34"/>
+<rect id="square05" width="15" height="15" transform="matrix(1 0 0 -1 15 60)" fill="#FFAF34"/>
+<rect id="square04" width="15" height="15" transform="matrix(1 0 0 -1 0 60)" fill="#FFAF34"/>
+<rect id="square03" width="15" height="15" transform="matrix(1 0 0 -1 0 45)" fill="#FFAF34"/>
+<rect id="square02" width="15" height="15" transform="matrix(1 0 0 -1 0 30)" fill="#FFAF34"/>
+<rect id="square01" width="15" height="15" transform="matrix(1 0 0 -1 0 15)" fill="#FFAF34"/>
+</g>
+</svg>
