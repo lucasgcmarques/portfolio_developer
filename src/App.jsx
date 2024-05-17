@@ -14,6 +14,7 @@ function App() {
   return (
     <>
       <Header />
+      <h1>Evolution</h1>
       <div className="main">
         <section id="intro">
           <Intro />
