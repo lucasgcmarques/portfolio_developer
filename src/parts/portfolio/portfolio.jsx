@@ -15,7 +15,7 @@ const GalleryItem = () => {
 };
 export const Portfolio = () => {
   return (
-    <section className="h-vh flex">
+    <div className="h-vh flex">
       <div className="mt-auto mb-auto flex w-full m-content justify-between w-full">
         <div className="mb-auto w-1x2">
           <h2 className="stretch display-2">Portfooolio</h2>
@@ -26,6 +26,6 @@ export const Portfolio = () => {
           <GalleryItem />
         </div>
       </div>
-    </section>
+    </div>
   );
 };

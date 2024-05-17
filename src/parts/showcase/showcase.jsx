@@ -9,8 +9,8 @@ const filters = [
 
 export const Showcase = () => {
   return (
-    <section className="h-vh m-content flex items-center ve">
-      <div className="showcase h-4x5 w-full">
+    <div className="h-vh m-content flex items-center">
+      <div className="showcase h-3x4 w-full mt-auto">
         <div className="showcase-left">
           <div className="showcase-filter">
             {filters.map((item) => (
@@ -39,6 +39,6 @@ export const Showcase = () => {
           <Vector3 />
         </div>
       </div>
-    </section>
+    </div>
   );
 };

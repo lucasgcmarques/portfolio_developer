@@ -3,7 +3,7 @@ import graph1 from "../../assets/images/graph1.svg";
 
 export const Intro = () => {
   return (
-    <section className=" h-full flex flex-column">
+    <div className=" h-full flex flex-column">
       <div className="flex my-3">
         <div className="w-full flex items-center justify-center">
           <img className="h-5x6" src={vector1} alt="vector" />
@@ -31,8 +31,8 @@ export const Intro = () => {
             Open to work
           </a>
         </div>
-        <h1 className="display-0 stretch">Weeb Develooper</h1>
+        <h1 className="display-0 stretch">Web Develooper</h1>
       </div>
-    </section>
+    </div>
   );
 };

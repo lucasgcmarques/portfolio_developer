@@ -2,7 +2,7 @@ import Star from "../../assets/images/star.svg?react";
 import Graph2 from "../../assets/images/graph2.svg?react";
 export const Message = () => {
   return (
-    <section className="h-vh flex items-center">
+    <div className="h-vh flex items-center">
       <div className="text-center">
         <div className="mb-4">
           <Star />
@@ -16,6 +16,6 @@ export const Message = () => {
           <Graph2 />
         </div>
       </div>
-    </section>
+    </div>
   );
 };

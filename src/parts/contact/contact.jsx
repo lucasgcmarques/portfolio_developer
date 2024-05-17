@@ -12,7 +12,7 @@ const contactLinks = [
 
 export const Contact = () => {
   return (
-    <section className="h-vh-2x3 flex flex-column">
+    <div className="h-vh-2x3 flex flex-column">
       <div className="line bg-primary h-max p-3">Linha</div>
       <div className="m-content flex items-center h-full">
         <div className="contact">
@@ -41,6 +41,6 @@ export const Contact = () => {
           </div>
         </div>
       </div>
-    </section>
+    </div>
   );
 };
