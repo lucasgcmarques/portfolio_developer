@@ -1,0 +1,6 @@
+<svg width="171" height="137" viewBox="0 0 171 137" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="33.75" height="67.5" transform="matrix(1 0 0 -1 68.5 102.25)" stroke="#FFA234"/>
+<rect width="67.5" height="33.75" transform="matrix(1 0 0 -1 102.25 34.75)" stroke="#FFA234"/>
+<path d="M1 1H34.75V102.25H68.5V136H1V1Z" stroke="#FFA234"/>
+<path d="M169.75 136H102.25V102.25H136V68.5H169.75V136Z" stroke="#FFA234"/>
+</svg>
