@@ -15,7 +15,7 @@ export const Header = () => {
           <nav>
             <ul className="flex">
               <li className="active">
-                <a href="#">home</a>
+                <a href="#">homeカ</a>
               </li>
               <li>
                 <a href="#about">about</a>

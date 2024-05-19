@@ -9,7 +9,6 @@ export const About = () => {
       <div className="h-vh flex items-center w-full gap-2">
         <Specialties />
         <Selector />
-        <div className="dsed"></div>
       </div>
       <div className="h-vh flex items-center w-full gap-2">
         <Me />

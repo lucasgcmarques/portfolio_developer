@@ -310,6 +310,10 @@
     margin-top: 0.75rem;
     margin-bottom: 0.75rem;
   }
+  .my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
 
   /* Padding superior */
   .pt-0 {

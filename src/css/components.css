@@ -1,7 +1,4 @@
 @layer components {
-  .main {
-    margin-top: 10rem;
-  }
 
   header {
     position: fixed;
@@ -251,4 +248,10 @@
     padding-top: 2rem;
     width: 30%;
   }
+
+  h1 span {
+    color: var(--primary);
+    fill: var(--primary);
+  }
+
 }

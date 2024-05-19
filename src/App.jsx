@@ -6,16 +6,12 @@ import { Message } from "./parts/message/message.jsx";
 import { Portfolio } from "./parts/portfolio/portfolio.jsx";
 import { Showcase } from "./parts/showcase/showcase.jsx";
 
-/**----------------------------------------------------------------
- * TODO: Create navigation scrolling between parts
- *----------------------------------------------------------------*/
 
 function App() {
   return (
     <>
       <Header />
-      <h1>Evolution</h1>
-      <div className="main">
+      <main className="main">
         <section id="intro">
           <Intro />
         </section>
@@ -34,7 +30,7 @@ function App() {
         <section id="contact">
           <Contact />
         </section>
-      </div>
+      </main>
     </>
   );
 }
